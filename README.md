@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -62,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
