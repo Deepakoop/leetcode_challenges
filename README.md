@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
