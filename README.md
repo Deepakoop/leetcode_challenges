@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepakoop/leetcode_challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Deepakoop/leetcode_challenges/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
 | [1288-remove-covered-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/1288-remove-covered-intervals) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepakoop/leetcode_challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -175,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
