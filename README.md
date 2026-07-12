@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepakoop/leetcode_challenges/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 ## Bit Manipulation
 |  |
 | ------- |
