@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepakoop/leetcode_challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Deepakoop/leetcode_challenges/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepakoop/leetcode_challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
