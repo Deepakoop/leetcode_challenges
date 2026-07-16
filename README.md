@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Deepakoop/leetcode_challenges/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepakoop/leetcode_challenges/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakoop/leetcode_challenges/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
