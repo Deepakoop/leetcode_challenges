@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0052-n-queens-ii) |
 ## Enumeration
 |  |
 | ------- |
