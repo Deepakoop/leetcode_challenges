@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
