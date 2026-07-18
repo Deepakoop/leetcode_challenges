@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakoop/leetcode_challenges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepakoop/leetcode_challenges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepakoop/leetcode_challenges/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Deepakoop/leetcode_challenges/tree/master/0060-permutation-sequence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakoop/leetcode_challenges/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
