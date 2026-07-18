@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
 | [1288-remove-covered-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/1288-remove-covered-intervals) |
@@ -234,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
