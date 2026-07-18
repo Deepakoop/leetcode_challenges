@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepakoop/leetcode_challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0027-remove-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Deepakoop/leetcode_challenges/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Deepakoop/leetcode_challenges/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
