@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Deepakoop/leetcode_challenges/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Deepakoop/leetcode_challenges/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
