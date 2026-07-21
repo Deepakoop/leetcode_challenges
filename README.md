@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deepakoop/leetcode_challenges/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Deepakoop/leetcode_challenges/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
