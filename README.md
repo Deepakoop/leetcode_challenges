@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0407-trapping-rain-water-ii) |
 | [1260-shift-2d-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0407-trapping-rain-water-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -340,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
