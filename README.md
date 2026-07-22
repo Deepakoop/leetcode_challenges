@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
+| [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0070-climbing-stairs) |
+| [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
