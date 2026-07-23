@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
 | [0517-super-washing-machines](https://github.com/Deepakoop/leetcode_challenges/tree/master/0517-super-washing-machines) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepakoop/leetcode_challenges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
