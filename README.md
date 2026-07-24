@@ -427,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Deepakoop/leetcode_challenges/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
