@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0517-super-washing-machines](https://github.com/Deepakoop/leetcode_challenges/tree/master/0517-super-washing-machines) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
+| [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [1288-remove-covered-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepakoop/leetcode_challenges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -404,5 +407,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
