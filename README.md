@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Deepakoop/leetcode_challenges/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0141-linked-list-cycle) |
