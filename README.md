@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
+| [0330-patching-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0517-super-washing-machines](https://github.com/Deepakoop/leetcode_challenges/tree/master/0517-super-washing-machines) |
 | [1260-shift-2d-grid](https://github.com/Deepakoop/leetcode_challenges/tree/master/1260-shift-2d-grid) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0330-patching-array) |
 | [0420-strong-password-checker](https://github.com/Deepakoop/leetcode_challenges/tree/master/0420-strong-password-checker) |
 | [0517-super-washing-machines](https://github.com/Deepakoop/leetcode_challenges/tree/master/0517-super-washing-machines) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
