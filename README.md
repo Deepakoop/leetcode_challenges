@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Deepakoop/leetcode_challenges/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0420-strong-password-checker](https://github.com/Deepakoop/leetcode_challenges/tree/master/0420-strong-password-checker) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Deepakoop/leetcode_challenges/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -164,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 ## Binary Search
 |  |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakoop/leetcode_challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
