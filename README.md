@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Deepakoop/leetcode_challenges/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Deepakoop/leetcode_challenges/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Deepakoop/leetcode_challenges/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
