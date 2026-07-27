@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Deepakoop/leetcode_challenges/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
