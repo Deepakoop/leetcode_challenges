@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Deepakoop/leetcode_challenges/tree/master/0135-candy) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Deepakoop/leetcode_challenges/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
