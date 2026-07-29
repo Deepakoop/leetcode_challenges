@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Deepakoop/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Deepakoop/leetcode_challenges/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepakoop/leetcode_challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Deepakoop/leetcode_challenges/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Deepakoop/leetcode_challenges/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Deepakoop/leetcode_challenges/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
