@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepakoop/leetcode_challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepakoop/leetcode_challenges/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Deepakoop/leetcode_challenges/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
