@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepakoop/leetcode_challenges/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0233-number-of-digit-one) |
 | [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakoop/leetcode_challenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakoop/leetcode_challenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/Deepakoop/leetcode_challenges/tree/master/0282-expression-add-operators) |
 | [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Deepakoop/leetcode_challenges/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Deepakoop/leetcode_challenges/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0233-number-of-digit-one) |
 ## Bit Manipulation
 |  |
 | ------- |
