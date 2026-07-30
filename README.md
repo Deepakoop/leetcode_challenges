@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Deepakoop/leetcode_challenges/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0420-strong-password-checker](https://github.com/Deepakoop/leetcode_challenges/tree/master/0420-strong-password-checker) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Deepakoop/leetcode_challenges/tree/master/0282-expression-add-operators) |
 | [0458-poor-pigs](https://github.com/Deepakoop/leetcode_challenges/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Deepakoop/leetcode_challenges/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Deepakoop/leetcode_challenges/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepakoop/leetcode_challenges/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepakoop/leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
