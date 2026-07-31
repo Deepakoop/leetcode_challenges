@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepakoop/leetcode_challenges/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/1331-rank-transform-of-an-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepakoop/leetcode_challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 ## Recursion
 |  |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakoop/leetcode_challenges/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3518-smallest-palindromic-rearrangement-ii) |
