@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Deepakoop/leetcode_challenges/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Deepakoop/leetcode_challenges/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0273-integer-to-english-words) |
