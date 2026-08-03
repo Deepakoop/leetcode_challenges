@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Deepakoop/leetcode_challenges/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 ## Recursion
 |  |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Deepakoop/leetcode_challenges/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Deepakoop/leetcode_challenges/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Deepakoop/leetcode_challenges/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakoop/leetcode_challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
