@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Deepakoop/leetcode_challenges/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Deepakoop/leetcode_challenges/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Deepakoop/leetcode_challenges/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0065-valid-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepakoop/leetcode_challenges/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Deepakoop/leetcode_challenges/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Deepakoop/leetcode_challenges/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Deepakoop/leetcode_challenges/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Deepakoop/leetcode_challenges/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Deepakoop/leetcode_challenges/tree/master/0062-unique-paths) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Deepakoop/leetcode_challenges/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Deepakoop/leetcode_challenges/tree/master/0068-text-justification) |
