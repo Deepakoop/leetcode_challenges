@@ -1,7 +1,7 @@
 class Solution {
     class Node {
         int l, r;
-        int lmx, rmx, mx; // left max repeating, right max repeating, total max repeating
+        int lmx, rmx, mx;
         
         Node(int l, int r) {
             this.l = l;
