@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepakoop/leetcode_challenges/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepakoop/leetcode_challenges/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Deepakoop/leetcode_challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0220-contains-duplicate-iii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepakoop/leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Deepakoop/leetcode_challenges/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepakoop/leetcode_challenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Deepakoop/leetcode_challenges/tree/master/0295-find-median-from-data-stream) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakoop/leetcode_challenges/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Deepakoop/leetcode_challenges/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Deepakoop/leetcode_challenges/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Deepakoop/leetcode_challenges/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0273-integer-to-english-words) |
