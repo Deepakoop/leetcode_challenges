@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepakoop/leetcode_challenges/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepakoop/leetcode_challenges/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Deepakoop/leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Deepakoop/leetcode_challenges/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Deepakoop/leetcode_challenges/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Deepakoop/leetcode_challenges/tree/master/0055-jump-game) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Deepakoop/leetcode_challenges/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Deepakoop/leetcode_challenges/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Deepakoop/leetcode_challenges/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Deepakoop/leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepakoop/leetcode_challenges/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Deepakoop/leetcode_challenges/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Deepakoop/leetcode_challenges/tree/master/0067-add-binary) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepakoop/leetcode_challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Deepakoop/leetcode_challenges/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Deepakoop/leetcode_challenges/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Deepakoop/leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deepakoop/leetcode_challenges/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0126-word-ladder-ii) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Deepakoop/leetcode_challenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Deepakoop/leetcode_challenges/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Deepakoop/leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Deepakoop/leetcode_challenges/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepakoop/leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0088-merge-sorted-array) |
