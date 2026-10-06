@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepakoop/leetcode_challenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/Deepakoop/leetcode_challenges/tree/master/0420-strong-password-checker) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepakoop/leetcode_challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepakoop/leetcode_challenges/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Deepakoop/leetcode_challenges/tree/master/0330-patching-array) |
 | [0420-strong-password-checker](https://github.com/Deepakoop/leetcode_challenges/tree/master/0420-strong-password-checker) |
 | [0517-super-washing-machines](https://github.com/Deepakoop/leetcode_challenges/tree/master/0517-super-washing-machines) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepakoop/leetcode_challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Deepakoop/leetcode_challenges/tree/master/1386-cinema-seat-allocation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepakoop/leetcode_challenges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakoop/leetcode_challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Deepakoop/leetcode_challenges/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepakoop/leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepakoop/leetcode_challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakoop/leetcode_challenges/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -804,5 +807,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepakoop/leetcode_challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakoop/leetcode_challenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
